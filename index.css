@@ -49,3 +49,9 @@ select {
     padding: 0.5rem;
     text-transform: uppercase;
 }
+
+
+
+body{
+    background: deeppink;
+}
